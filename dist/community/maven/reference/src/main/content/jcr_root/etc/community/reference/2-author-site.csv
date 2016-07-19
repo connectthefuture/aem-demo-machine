@@ -33,7 +33,7 @@ SlingPost,/content/sites/communities/en/trending/jcr:content/content/primary/tre
 BadgeAssign,/home/users,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 admin,0,aaron.mcdonald@mailinator.com,/etc/community/badging/images/moderator/jcr:content/moderator.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 # The following line is adding the ck.plugin.codesnippet entry to the clientlibs for the codesnippet plugin to work on this specific forum instance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SlingPost,/content/sites/communities/en/forum/jcr:content/clientlibslist,scg:requiredClientLibs@String[],cq.ckeditor|cq.social.hbs.voting|cq.social.hbs.forum|cq.social.hbs.signup|cq.social.hbs.breadcrumbs|ck.plugin.codesnippet|personalization.core.kernel|personalization.clientcontext.kernel|personalization.stores.kernel|personalization.kernel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SlingPost,/content/sites/communities/en/forum/jcr:content/clientlibslist,scg:requiredClientLibs+,ck.plugin.codesnippet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 # Assigning the advanced scoring and badging rules to the site,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Badge,/content/sites/communities/jcr:content,scoringRules@String[],/etc/community/scoring/rules/adv-forums-scoring,badgingRules@String[],/etc/community/badging/rules/adv-forums-badging,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 # Republishing the site,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
