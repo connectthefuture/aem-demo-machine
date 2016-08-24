@@ -4,8 +4,9 @@
 SlingPost,/libs/granite/security/post/authorizables.html,authorizableId,aem-privileged-members,./profile/givenName,AEM Privileged Members,aboutMe,Members for AEM Communities Site,createGroup,1,,,,,,,
 GroupMembers,aem-privileged-members,addMembers,emily.andrews@mailinator.com,,,,,,,,,,,,,
 # The following lines are updating user profiles,,,,,,,,,,,,,,,,
-Users,andrew.schaeffer@trashymail.com,Profile,aboutMe,I'm a Web Content Manager at Geometrixx,language,en,city,San Francisco,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Manager
-Users,rebekah.larsen@trashymail.com,Profile,aboutMe,I'm a Community Administrator at Geometrixx,language,en,city,San Jose,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Director
-Users,weston.mccall@dodgit.com,Profile,aboutMe,I'm a Community Member for Geometrixx Communities,language,en,city,San Francisco,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Manager
-Users,aaron.mcdonald@mailinator.com,Profile,aboutMe,I'm a Community Manager for Geometrixx Communities,language,en,city,San Jose,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Director
-Users,emily.andrews@mailinator.com,Profile,aboutMe,I'm a Community Privileged Member for Geometrixx Outdoors,language,en,city,San Francisco,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Employee
+Users,andrew.schaeffer@trashymail.com,Profile,aboutMe,I'm a Web Content Manager,language,en,city,San Francisco,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Manager
+Users,rebekah.larsen@trashymail.com,Profile,aboutMe,I'm a Community Administrator,language,en,city,San Jose,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Director
+Users,weston.mccall@dodgit.com,Profile,aboutMe,I'm a Community Member ,language,en,city,San Francisco,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Manager
+Users,aaron.mcdonald@mailinator.com,Profile,aboutMe,I'm a Community Manager,language,en,city,San Jose,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Director
+Users,emily.andrews@mailinator.com,Profile,aboutMe,I'm a Community Privileged Member,language,en,city,San Francisco,region,CA,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Employee
+Users,felicia.carter@trashymail.com,Profile,aboutMe,I'm a Community Member,language,fr,city,Toronto,region,ON,streetAddress,11 Pacific Highway,url,http://www.geometrixx.com,occupation,Employee
