@@ -1,5 +1,6 @@
 # Title: Install Community Enablement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "# Description: This option creates Community Enablement content (Videos and SCORM) when the Enablement features are available on the instance. The resources are first created on author, then assigned and published to demo users.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SitePath,/content/sites/communities/en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SlingPost,/content/dam/resources,jcr:title,Resources,jcr:description,Resources for Catalog and Enablement functions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SlingPost,/content/dam/resources/reference,jcr:title,Reference,jcr:description,Resources for Reference,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SlingPost,/content/dam/resources/reference/communities,jcr:title,Communities,jcr:description,Resources for Reference,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
