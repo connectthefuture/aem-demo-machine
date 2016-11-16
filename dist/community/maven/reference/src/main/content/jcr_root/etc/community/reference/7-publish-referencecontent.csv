@@ -199,3 +199,7 @@ SlingPost,/content/sites/communities/en/jcr:content/analyticsCommunities/reportC
 SlingPost,/content/sites/communities/en/jcr:content/analyticsCommunities/reportConfigs/social_journal_components_hbs_journal/views/total.requestAnalyticsImport.json,apply,TRUE,,,,,,,,,,,,,,,,,,,,,,
 SlingPost,/content/sites/communities/en/jcr:content/analyticsCommunities/reportConfigs/social_journal_components_hbs_entry_topic/views/total.requestAnalyticsImport.json,apply,TRUE,,,,,,,,,,,,,,,,,,,,,,
 SlingPost,/content/sites/communities/en/jcr:content/analyticsCommunities/reportConfigs/social_journal_components_hbs_entry_topic/posts/total.requestAnalyticsImport.json,apply,TRUE,,,,,,,,,,,,,,,,,,,,,,
+SlingPost,/content/sites/communities/en/jcr:content/analyticsCommunities/reportConfigs/social_journal_components_hbs_ideation/posts/total.requestAnalyticsImport.json,apply,TRUE,,,,,,,,,,,,,,,,,,,,,,
+SlingPost,/content/sites/communities/en/jcr:content/analyticsCommunities/reportConfigs/social_journal_components_hbs_ideation/views/total.requestAnalyticsImport.json,apply,TRUE,,,,,,,,,,,,,,,,,,,,,,
+SlingPost,/content/sites/communities/en/jcr:content/analyticsCommunities/reportConfigs/social_journal_components_hbs_idea/views/total.requestAnalyticsImport.json,apply,TRUE,,,,,,,,,,,,,,,,,,,,,,
+SlingPost,/content/sites/communities/en/jcr:content/analyticsCommunities/reportConfigs/social_journal_components_hbs_idea/posts/total.requestAnalyticsImport.json,apply,TRUE,,,,,,,,,,,,,,,,,,,,,,
